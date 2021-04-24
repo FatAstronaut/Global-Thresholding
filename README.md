@@ -8,4 +8,5 @@ Global thresholding consists of setting an intensity value (threshold) such that
 For this code I used Google Colaboratory.
 
 Result Example: 
+
 ![image](https://user-images.githubusercontent.com/60902004/115967045-c77a4d00-a506-11eb-84ac-12e2ee964ea6.png)

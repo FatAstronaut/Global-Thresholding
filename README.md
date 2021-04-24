@@ -5,7 +5,7 @@ Global thresholding consists of setting an intensity value (threshold) such that
 
 ![image](https://user-images.githubusercontent.com/60902004/115966930-330fea80-a506-11eb-8ca7-a5d02d6f2fd6.png)
 
-For this code I used Google Colaboratory.
+For this code, I used Google Colaboratory.
 
 Result Example: 
 
